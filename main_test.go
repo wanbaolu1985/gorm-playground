@@ -5,7 +5,7 @@ import (
 )
 
 // GORM_REPO: https://github.com/go-gorm/gorm.git
-// GORM_BRANCH: master
+// GORM_BRANCH: v1.24.3
 // TEST_DRIVERS: mysql
 
 func TestGORM(t *testing.T) {
